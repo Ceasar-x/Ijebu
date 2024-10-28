@@ -43,7 +43,7 @@ body{
 }
 #guess{
     height: 30%;
-    width: 40%;
+    width: 50%;
     margin: auto;
     
     align-content: center;
@@ -64,7 +64,7 @@ body{
     
 }
 #inputter::placeholder{
-    font-size: 15px;
+    font-size: 13px;
 }
 #checker{
     height: 30%;
